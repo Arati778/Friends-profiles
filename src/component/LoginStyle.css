@@ -1,0 +1,169 @@
+body{
+  margin: 0;
+ }
+
+.cover{
+  background-image: url("../assets/image/bysanicover.jpg");
+  background-repeat: no-repeat;
+  background-size:contain;
+  background-color: #f7f7f7;
+
+}
+.logoimage{
+  width: 180px;   
+  
+  margin-top: 40px;
+  margin-left: 70px;
+}
+
+
+.form-container {
+ display: flex;
+ justify-content:center;
+ margin-top: -80px;
+ margin-left: 70px;
+
+  /* margin-right: 130px; */
+ 
+  
+ 
+}
+
+.login-form {
+  width: 40%;
+  padding: 26px;
+  
+  
+  /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+}
+
+.form-group {
+  margin-bottom: 25px;
+  
+}
+
+
+input[type='text'],
+input[type='password'] {
+  width: 100%;
+  padding: 13px;
+  font-size: 16px;
+  border: 1px solid black;
+  border-radius: 6px;
+}
+
+button {
+  display: block;
+  width: 104%;
+  padding: 9px;
+  background-color: #405659;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 22px;
+}
+.lndn{
+  font-size:20px ;
+  /* margin-top: 30px;
+  width: 80%;
+  margin-left: 65px; */
+  background-color: #0056b3;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+.lndn:hover {
+  background-color: #405659;
+}
+
+.forgot-password {
+  display: inline-block;
+  margin-top: 10px;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.forgot-password:hover {
+  text-decoration: underline;
+}
+@media (max-width: 868px) {
+  .cover {
+      background-size: cover;
+
+
+  /* justify-content: center;
+  align-items: center; */
+  }
+  .form-container{
+    margin-top: 80px;
+
+}
+/*input[type='text'],
+input[type='password'] {
+  
+
+  padding: 15px;
+  font-size: 20px;
+} 
+*/
+.login-form{
+  width: 60%;
+} 
+/* .lndn{
+  width: 100%;
+  padding: 15px;
+
+}  */
+button{
+  width: 106%;
+  font-size: 24px;
+} 
+} 
+
+
+@media screen and (max-width: 600px) {
+  
+  .cover {
+      background-size: cover; 
+     
+      
+    }
+  .logoimage {
+      width: 100px; 
+      margin-bottom: 10px;
+      margin-left: 10px; 
+    }
+  
+    .form-container {
+      max-width: 330px; 
+      padding: 8px;
+      margin-right: 0; 
+      margin-top:30px ;
+      margin-left: 3px;
+      justify-content: center; 
+      align-items: center; 
+    }
+  .logoimage{
+      margin-left: 30px;
+  }
+    .login-form {
+      width: 80%; 
+      margin-left: 20px;
+      font-size: 15px; 
+    }
+    button{
+      width: 110%;
+    }
+  
+    button.lndn {
+      font-size: 16px; 
+     
+      
+    }
+  }
+
+  
+   
+  

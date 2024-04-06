@@ -1,0 +1,83 @@
+.Profile-info {
+  margin-top: 30px;
+  margin-left: 70px;
+  margin-right: 100px;
+}
+
+.Review {
+  margin-bottom: 20px;
+  padding: 10px;
+  border-left: 4px solid #2196f3; /* Blue border on the left */
+  background-color: #f9f9f9; /* Light gray background */
+}
+.logo{
+  width: 35px;
+  margin-left: 45px;
+  margin-top: 20px;
+  
+}
+.Review p {
+  margin-bottom: 5px;
+}
+
+.Review .reviewer {
+  font-weight: bold;
+}
+
+.Review .position {
+  font-style: italic;
+}
+.rate-div{
+  display: flex;
+  justify-content: end;
+  
+  
+}
+.rate-frnd{
+  margin-top: 140px;
+  width: 190px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: darkslategray;
+ 
+  color: white;
+  cursor: pointer;
+  letter-spacing: 1px;
+}
+
+/* Responsive styles for mobile */
+@media (max-width: 768px) {
+  .Profile-info {
+    margin-top: 15px; 
+    margin-left: 18px;
+  margin-right: 8px;
+  }
+  .logo{
+    margin-left: 10px;
+    margin-top: 15px;
+  }
+
+  .Review {
+    padding: 8px; /* Adjust padding for smaller screens */
+    margin-bottom: 15px; /* Adjust margin for smaller screens */
+  }
+  .rate-frnd{
+    margin-top: 50px;
+  }
+}
+/* @media (max-width: 834px) {
+  .rate-frnd{
+    margin-top: 40px;
+   
+  }
+ 
+} */
+
+.ratings {
+  height: 300px; /* Set the desired fixed height */
+  overflow-y: auto; /* Enable vertical scrolling */
+}
+
+

@@ -1,0 +1,609 @@
+{
+  "user1": {
+    "id":"1",
+    "name": "Krishna Kumar",
+    "imageURL":"/src/assets/image/profileimg3.jpg",
+    "avatarColor": "deepOrange[500]",
+    "avatarSize": 250,
+    "avatarFontSize": 60,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "reviewer": "Sarah Jones",
+        "position": "Client",
+        "comment": "John is a highly skilled professional with a deep understanding of his field. He is always willing to go the extra mile and is a pleasure to work with.",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "David Miller",
+        "position": "Manager",
+        "comment": "John's expertise and communication skills were invaluable in completing our project on time and within budget. I highly recommend him.",
+        "rating": 4.8
+      },
+      {
+        "reviewer": "Emily Smith",
+        "position": "Manager",
+        "comment": "John exceeded our expectations with his work. He is a great team player and always delivers quality results.",
+        "rating": 4.6
+      },
+      {
+        "reviewer": "Michael Johnson",
+        "position": "Client",
+        "comment": "Working with John was a pleasure. He has excellent problem-solving skills and is very reliable.",
+        "rating": 4.7
+      }
+    ],
+    "qualifications": {
+      "education": [ "Bachelors in Computer Science", "Masters in Computer Applications", "Diploma in Software Engineering"],
+      "certifications": "AWS Certified Solutions Architect, CCNP"
+    },
+    "professionalExperience": {
+      "company": "ABC Corporation",
+      "jobTitle": "Software Engineer",
+      "responsibilities": "Developing web applications, collaborating with cross-functional teams"
+    },
+    "certifications": {
+      "certifications": "PMP, Scrum Master",
+      "licenses": "Professional Engineer License"
+    },
+    "skills": {
+      "technicalSkills": "JavaScript, React, Node.js",
+      "softSkills": "Communication, Teamwork"
+    }
+  },
+  "user2": {
+    "id":"2",
+    "name": "Jessica Leesu",
+    "imageURL":"/src/assets/image/amitimg.jpg",
+    "avatarColor": "deepOrange[500]",
+    "avatarSize": 250,
+    "avatarFontSize": 60,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "reviewer": "Emily Johnson",
+        "position": "Client",
+        "comment": "Jessica is a dedicated professional who always delivers quality work. She has a great attitude and is a pleasure to work with.",
+        "rating": 4.3
+      },
+      {
+        "reviewer": "Mark Davis",
+        "position": "Manager",
+        "comment": "Jessica's technical skills are impressive, and she always meets project deadlines. I highly recommend her for any project.",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Sophia Wilson",
+        "position": "Manager",
+        "comment": "Working with Jessica was a great experience. She is a proactive team member and has excellent problem-solving skills.",
+        "rating": 4.4
+      }
+    ],
+    "qualifications": {
+      "education": [ "Bachelors in Computer Science", "Masters in Computer Applications", "Diploma in Software Engineering"],
+      "certifications": "AWS Certified Solutions Architect, CCNP"
+    },
+    "professionalExperience": {
+      "company": "XYZ Solutions",
+      "jobTitle": "Software Developer",
+      "responsibilities": "Developing and maintaining software applications, collaborating with team members"
+    },
+    "certifications": {
+      "certifications": "ITIL Foundation, CISSP",
+      "licenses": "Professional Engineer License"
+    },
+    "skills": {
+      "technicalSkills": "Java, Python, SQL",
+      "softSkills": "Problem-solving, Adaptability"
+    }
+  },
+  "user7": {
+    "id":"7",
+    "name": "Anjali mahato",
+    "imageURL":"/src/assets/image/imgprofile.jpg",
+    "avatarColor": "deepOrange[500]",
+    "avatarSize": 250,
+    "avatarFontSize": 60,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Jack White",
+        "position": "Client",
+        "comment": "Sophie is a highly skilled professional who always delivers exceptional work. She is a valuable asset to any team.",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Emma Taylor",
+        "position": "Manager",
+        "comment": "Sophie's technical expertise is impressive, and she always meets project deadlines. I highly recommend her for any project.",
+        "rating": 4.6
+      },
+      {
+        "reviewer": "Oliver Smith",
+        "position": "Manager",
+        "comment": "Working with Sophie was a pleasure. She is a dedicated team player and has excellent problem-solving skills.",
+        "rating": 4.3
+      }
+    ],
+    "qualifications": {
+      "education": [ "Bachelors in Computer Science", "Masters in Computer Applications", "Diploma in Software Engineering"],
+      "certifications": "AWS Certified Solutions Architect, CCNP"
+    },
+    "professionalExperience": {
+      "company": "GHI Solutions",
+      "jobTitle": "Software Developer",
+      "responsibilities": "Developing and maintaining software applications"
+    },
+    "certifications": {
+      "certifications": "ITIL Foundation, CISSP",
+      "licenses": "Professional Engineer License"
+    },
+    "skills": {
+      "technicalSkills": "Java, JavaScript, Angular",
+      "softSkills": "Problem-solving, Adaptability"
+    }
+  },
+  "user3": {
+    "id":"3",
+    "username": "Rajesh kumar",
+    "password": "12345",
+    "imageURL":"/src/assets/image/amitimg.jpg",
+    "avatarColor": "deepOrange[500]",
+    "avatarSize": 250,
+    "avatarFontSize": 60,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Sara Brown",
+        "position": "Client",
+        "comment": "Rajesh is an exceptional professional with a strong work ethic. He always delivers high-quality work and is a pleasure to work with.",
+        "rating": 4.8
+      },
+      {
+        "reviewer": "Alex Green",
+        "position": "Manager",
+        "comment": "Rajesh's technical skills are outstanding, and he has a great attitude towards his work. I highly recommend him for any project.",
+        "rating": 4.9
+      },
+      {
+        "reviewer": "Rachel White",
+        "position": "Manager",
+        "comment": "Working with Rajesh was a fantastic experience. He is a dedicated team player and always goes above and beyond.",
+        "rating": 4.8 
+      }
+    ],
+    "qualifications": {
+      "education": [ "Bachelors in Computer Science", "Masters in Computer Applications", "Diploma in Software Engineering"],
+      "certifications": "AWS Certified Solutions Architect, CCNP"
+    },
+    "professionalExperience": {
+      "company": "DEF Technologies",
+      "jobTitle": "Senior Software Engineer",
+      "responsibilities": "Leading development projects, mentoring junior developers"
+    },
+    "certifications": {
+      "certifications": "TOGAF, Six Sigma Black Belt",
+      "licenses": "Professional Engineer License"
+    },
+    "skills": {
+      "technicalSkills": "C#, .NET, Azure",
+      "softSkills": "Leadership, Time Management"
+    }
+  },
+  "user13": {
+    "id":"13",
+    "name": "Rajesh kumar",
+  
+    "imageURL":"/src/assets/image/amitimg.jpg",
+    "avatarColor": "deepOrange[500]",
+    "avatarSize": 250,
+    "avatarFontSize": 60,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Sara Brown",
+        "position": "Client",
+        "comment": "Rajesh is an exceptional professional with a strong work ethic. He always delivers high-quality work and is a pleasure to work with.",
+        "rating": 4.8
+      },
+      {
+        "reviewer": "Alex Green",
+        "position": "Manager",
+        "comment": "Rajesh's technical skills are outstanding, and he has a great attitude towards his work. I highly recommend him for any project.",
+        "rating": 4.9
+      },
+      {
+        "reviewer": "Rachel White",
+        "position": "Manager",
+        "comment": "Working with Rajesh was a fantastic experience. He is a dedicated team player and always goes above and beyond.",
+        "rating": 4.8 
+      }
+    ],
+    "qualifications": {
+      "education": [ "Bachelors in Computer Science", "Masters in Computer Applications", "Diploma in Software Engineering"],
+      "certifications": "AWS Certified Solutions Architect, CCNP"
+    },
+    "professionalExperience": {
+      "company": "DEF Technologies",
+      "jobTitle": "Senior Software Engineer",
+      "responsibilities": "Leading development projects, mentoring junior developers"
+    },
+    "certifications": {
+      "certifications": "TOGAF, Six Sigma Black Belt",
+      "licenses": "Professional Engineer License"
+    },
+    "skills": {
+      "technicalSkills": "C#, .NET, Azure",
+      "softSkills": "Leadership, Time Management"
+    }
+  },
+  "user12": {
+    "id":"12",
+    "name": "Rajesh kumar",
+  
+    "imageURL":"/src/assets/image/amitimg.jpg",
+    "avatarColor": "deepOrange[500]",
+    "avatarSize": 250,
+    "avatarFontSize": 60,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "reviewer": "Sara Brown",
+        "position": "Client",
+        "comment": "Rajesh is an exceptional professional with a strong work ethic. He always delivers high-quality work and is a pleasure to work with.",
+        "rating": 4.8
+      },
+      {
+        "reviewer": "Alex Green",
+        "position": "Manager",
+        "comment": "Rajesh's technical skills are outstanding, and he has a great attitude towards his work. I highly recommend him for any project.",
+        "rating": 4.9
+      },
+      {
+        "reviewer": "Rachel White",
+        "position": "Manager",
+        "comment": "Working with Rajesh was a fantastic experience. He is a dedicated team player and always goes above and beyond.",
+        "rating": 4.8 
+      }
+    ],
+    "qualifications": {
+      "education": [ "Bachelors in Computer Science", "Masters in Computer Applications", "Diploma in Software Engineering"],
+      "certifications": "AWS Certified Solutions Architect, CCNP"
+    },
+    "professionalExperience": {
+      "company": "DEF Technologies",
+      "jobTitle": "Senior Software Engineer",
+      "responsibilities": "Leading development projects, mentoring junior developers"
+    },
+    "certifications": {
+      "certifications": "TOGAF, Six Sigma Black Belt",
+      "licenses": "Professional Engineer License"
+    },
+    "skills": {
+      "technicalSkills": "C#, .NET, Azure",
+      "softSkills": "Leadership, Time Management"
+    }
+  },
+  "user6": {
+    "id":"6",
+    "name": "Jessica Leesu",
+    "imageURL":"/src/assets/image/profile4.jpg",
+    "avatarColor": "deepOrange[500]",
+    "avatarSize": 250,
+    "avatarFontSize": 60,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "reviewer": "Emily Johnson",
+        "position": "Client",
+        "comment": "Jessica is a dedicated professional who always delivers quality work. She has a great attitude and is a pleasure to work with.",
+        "rating": 4.3
+      },
+      {
+        "reviewer": "Mark Davis",
+        "position": "Manager",
+        "comment": "Jessica's technical skills are impressive, and she always meets project deadlines. I highly recommend her for any project.",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Sophia Wilson",
+        "position": "Manager",
+        "comment": "Working with Jessica was a great experience. She is a proactive team member and has excellent problem-solving skills.",
+        "rating": 4.4
+      }
+    ],
+    "qualifications": {
+      "education": [ "Bachelors in Computer Science", "Masters in Computer Applications", "Diploma in Software Engineering"],
+      "certifications": "AWS Certified Solutions Architect, CCNP"
+    },
+    "professionalExperience": {
+      "company": "XYZ Solutions",
+      "jobTitle": "Software Developer",
+      "responsibilities": "Developing and maintaining software applications, collaborating with team members"
+    },
+    "certifications": {
+      "certifications": "ITIL Foundation, CISSP",
+      "licenses": "Professional Engineer License"
+    },
+    "skills": {
+      "technicalSkills": "Java, Python, SQL",
+      "softSkills": "Problem-solving, Adaptability"
+    }
+  },
+  "user8": {
+    "id":"8",
+    "name": "Sophie Brown",
+    "imageURL":"/src/assets/image/amitimg.jpg",
+    "avatarColor": "deepOrange[500]",
+    "avatarSize": 250,
+    "avatarFontSize": 60,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Jack White",
+        "position": "Client",
+        "comment": "Sophie is a highly skilled professional who always delivers exceptional work. She is a valuable asset to any team.",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Emma Taylor",
+        "position": "Manager",
+        "comment": "Sophie's technical expertise is impressive, and she always meets project deadlines. I highly recommend her for any project.",
+        "rating": 4.6
+      },
+      {
+        "reviewer": "Oliver Smith",
+        "position": "Manager",
+        "comment": "Working with Sophie was a pleasure. She is a dedicated team player and has excellent problem-solving skills.",
+        "rating": 4.3
+      }
+    ],
+    "qualifications": {
+      "education": [ "Bachelors in Computer Science", "Masters in Computer Applications", "Diploma in Software Engineering"],
+      "certifications": "AWS Certified Solutions Architect, CCNP"
+    },
+    "professionalExperience": {
+      "company": "GHI Solutions",
+      "jobTitle": "Software Developer",
+      "responsibilities": "Developing and maintaining software applications"
+    },
+    "certifications": {
+      "certifications": "ITIL Foundation, CISSP",
+      "licenses": "Professional Engineer License"
+    },
+    "skills": {
+      "technicalSkills": "Java, JavaScript, Angular",
+      "softSkills": "Problem-solving, Adaptability"
+    }
+  },
+  "user11": {
+    "id":"11",
+    "name": "Sophie Brown",
+    "imageURL":"/src/assets/image/amitimg.jpg",
+    "avatarColor": "deepOrange[500]",
+    "avatarSize": 250,
+    "avatarFontSize": 60,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Jack White",
+        "position": "Client",
+        "comment": "Sophie is a highly skilled professional who always delivers exceptional work. She is a valuable asset to any team.",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Emma Taylor",
+        "position": "Manager",
+        "comment": "Sophie's technical expertise is impressive, and she always meets project deadlines. I highly recommend her for any project.",
+        "rating": 4.6
+      },
+      {
+        "reviewer": "Oliver Smith",
+        "position": "Manager",
+        "comment": "Working with Sophie was a pleasure. She is a dedicated team player and has excellent problem-solving skills.",
+        "rating": 4.3
+      }
+    ],
+    "qualifications": {
+      "education": [ "Bachelors in Computer Science", "Masters in Computer Applications", "Diploma in Software Engineering"],
+      "certifications": "AWS Certified Solutions Architect, CCNP"
+    },
+    "professionalExperience": {
+      "company": "GHI Solutions",
+      "jobTitle": "Software Developer",
+      "responsibilities": "Developing and maintaining software applications"
+    },
+    "certifications": {
+      "certifications": "ITIL Foundation, CISSP",
+      "licenses": "Professional Engineer License"
+    },
+    "skills": {
+      "technicalSkills": "Java, JavaScript, Angular",
+      "softSkills": "Problem-solving, Adaptability"
+    }
+  },
+  "user10": {
+    "id":"10",
+    "name": "Sophie Brown",
+    "imageURL":"/src/assets/image/amitimg.jpg",
+    "avatarColor": "deepOrange[500]",
+    "avatarSize": 250,
+    "avatarFontSize": 60,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Jack White",
+        "position": "Client",
+        "comment": "Sophie is a highly skilled professional who always delivers exceptional work. She is a valuable asset to any team.",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Emma Taylor",
+        "position": "Manager",
+        "comment": "Sophie's technical expertise is impressive, and she always meets project deadlines. I highly recommend her for any project.",
+        "rating": 4.6
+      },
+      {
+        "reviewer": "Oliver Smith",
+        "position": "Manager",
+        "comment": "Working with Sophie was a pleasure. She is a dedicated team player and has excellent problem-solving skills.",
+        "rating": 4.3
+      }
+    ],
+    "qualifications": {
+      "education": [ "Bachelors in Computer Science", "Masters in Computer Applications", "Diploma in Software Engineering"],
+      "certifications": "AWS Certified Solutions Architect, CCNP"
+    },
+    "professionalExperience": {
+      "company": "GHI Solutions",
+      "jobTitle": "Software Developer",
+      "responsibilities": "Developing and maintaining software applications"
+    },
+    "certifications": {
+      "certifications": "ITIL Foundation, CISSP",
+      "licenses": "Professional Engineer License"
+    },
+    "skills": {
+      "technicalSkills": "Java, JavaScript, Angular",
+      "softSkills": "Problem-solving, Adaptability"
+    }
+  },
+  "user4": {
+    "id":"4",
+    "name": "Sophie Brown",
+    "imageURL":"/src/assets/image/profileimg3.jpg",
+    "avatarColor": "deepOrange[500]",
+    "avatarSize": 250,
+    "avatarFontSize": 60,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Jack White",
+        "position": "Client",
+        "comment": "Sophie is a highly skilled professional who always delivers exceptional work. She is a valuable asset to any team.",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Emma Taylor",
+        "position": "Manager",
+        "comment": "Sophie's technical expertise is impressive, and she always meets project deadlines. I highly recommend her for any project.",
+        "rating": 4.6
+      },
+      {
+        "reviewer": "Oliver Smith",
+        "position": "Manager",
+        "comment": "Working with Sophie was a pleasure. She is a dedicated team player and has excellent problem-solving skills.",
+        "rating": 4.3
+      }
+    ],
+    "qualifications": {
+      "education": [ "Bachelors in Computer Science", "Masters in Computer Applications", "Diploma in Software Engineering"],
+      "certifications": "AWS Certified Solutions Architect, CCNP"
+    },
+    "professionalExperience": {
+      "company": "GHI Solutions",
+      "jobTitle": "Software Developer",
+      "responsibilities": "Developing and maintaining software applications"
+    },
+    "certifications": {
+      "certifications": "ITIL Foundation, CISSP",
+      "licenses": "Professional Engineer License"
+    },
+    "skills": {
+      "technicalSkills": "Java, JavaScript, Angular",
+      "softSkills": "Problem-solving, Adaptability"
+    }
+  },
+  "user9": {
+    "id":"9",
+    "name": "Sophie Brown",
+    "imageURL":"/src/assets/image/profileimg3.jpg",
+    "avatarColor": "deepOrange[500]",
+    "avatarSize": 250,
+    "avatarFontSize": 60,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "reviewer": "Jack White",
+        "position": "Client",
+        "comment": "Sophie is a highly skilled professional who always delivers exceptional work. She is a valuable asset to any team.",
+        "rating": 4.5
+      },
+      {
+        "reviewer": "Emma Taylor",
+        "position": "Manager",
+        "comment": "Sophie's technical expertise is impressive, and she always meets project deadlines. I highly recommend her for any project.",
+        "rating": 4.6
+      },
+      {
+        "reviewer": "Oliver Smith",
+        "position": "Manager",
+        "comment": "Working with Sophie was a pleasure. She is a dedicated team player and has excellent problem-solving skills.",
+        "rating": 4.3
+      }
+    ],
+    "qualifications": {
+      "education": [ "Bachelors in Computer Science", "Masters in Computer Applications", "Diploma in Software Engineering"],
+      "certifications": "AWS Certified Solutions Architect, CCNP"
+    },
+    "professionalExperience": {
+      "company": "GHI Solutions",
+      "jobTitle": "Software Developer",
+      "responsibilities": "Developing and maintaining software applications"
+    },
+    "certifications": {
+      "certifications": "ITIL Foundation, CISSP",
+      "licenses": "Professional Engineer License"
+    },
+    "skills": {
+      "technicalSkills": "Java, JavaScript, Angular",
+      "softSkills": "Problem-solving, Adaptability"
+    }
+  },
+  "user5": {
+    "id":"5",
+    "name": "Ravi Sharma",
+    "imageURL":"/src/assets/image/amitimg.jpg",
+    "avatarColor": "deepOrange[500]",
+    "avatarSize": 250,
+    "avatarFontSize": 60,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "reviewer": "Lily Johnson",
+        "position": "Client",
+        "comment": "Ravi is a talented professional with excellent technical skills. He always delivers high-quality work and is a pleasure to work with.",
+        "rating": 4.7
+      },
+      {
+        "reviewer": "Henry Wilson",
+        "position": "Manager",
+        "comment": "Ravi's technical expertise is impressive, and he has a great attitude towards his work. I highly recommend him for any project.",
+        "rating": 4.8
+      },
+      {
+        "reviewer": "Sophia Brown",
+        "position": "Manager",
+        "comment": "Working with Ravi was a great experience. He is a proactive team member and always meets project deadlines.",
+        "rating": 4.5
+      }
+    ],
+    "qualifications": {
+      "education": [ "Bachelors in Computer Science", "Masters in Computer Applications", "Diploma in Software Engineering"],
+      "certifications": "AWS Certified Solutions Architect, CCNP"
+    },
+    "professionalExperience": {
+      "company": "IJK Technologies",
+      "jobTitle": "Senior Software Engineer",
+      "responsibilities": "Leading development projects, collaborating with team members"
+    },
+    "certifications": {
+      "certifications": "TOGAF, Six Sigma Black Belt",
+      "licenses": "Professional Engineer License"
+    },
+    "skills": {
+      "technicalSkills": "Python, Django, AWS",
+      "softSkills": "Leadership, Time Management"
+    }
+  }
+}
